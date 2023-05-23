@@ -47,5 +47,6 @@ public class Switch02 {
         Note : "switch" condition parantezi içinde long, boolean, float, double kullanılamaz
          */
 
+
     }//main
 }//class

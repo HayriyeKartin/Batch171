@@ -56,5 +56,7 @@ public class Switch01 {
                 System.out.println("Lütfen geçerli gün ismi giriniz");
         }
 
+
+
     }//main
 }//class
